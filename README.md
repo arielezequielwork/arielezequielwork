@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Ezequiel 👋
 
-<!--
-**arielezequielwork/arielezequielwork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Data Analyst passionate about transforming data into actionable business insights.
 
-Here are some ideas to get you started:
+## 🛠️ Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- SQL
+- PostgreSQL
+- Power BI
+- Python (Pandas)
+- BigQuery
+- Excel
+- Data Visualization
+
+## 📊 Featured Projects
+
+### 🛒 E-commerce Customer Journey Analysis
+Customer funnel analysis focused on conversion optimization and acquisition channel performance.
+
+### 🛍️ Customer Shopping Behavior Analysis
+Customer segmentation and purchasing behavior analysis using Python, SQL, PostgreSQL, and Power BI.
+
+### 🎮 Helldivers 2 Community Crisis Analysis
+Community sentiment and player retention analysis following a major reputation crisis.
+
+## 📫 Connect with me
+
+- LinkedIn: https://www.linkedin.com/in/ezequiel-gonzalez-data/
+- GitHub: https://github.com/arielezequielwork
