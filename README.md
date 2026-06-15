@@ -14,9 +14,9 @@ Aspiring Data Analyst passionate about transforming data into actionable busines
 
 ## 📊 Featured Projects
 
-### 🛒 Analisis-Embudo-de-Ventas (Spanish)
+### 🛒 Analisis-Embudo-de-Ventas
+**Language:** Spanish 🇪🇸
 Customer funnel analysis focused on conversion optimization and acquisition channel performance.
-Proyecto de análisis de datos enfocado en comprender el comportamiento de los usuarios a lo largo del embudo de compra de una plataforma de comercio electrónico.
 
 ### 🛍️ Customer Shopping Behavior Analysis
 Customer segmentation and purchasing behavior analysis using Python, SQL, PostgreSQL, and Power BI.
