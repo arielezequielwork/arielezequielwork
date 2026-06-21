@@ -7,12 +7,17 @@ Aspiring Data Analyst passionate about transforming data into actionable busines
 - SQL
 - PostgreSQL
 - Power BI
+- Tableau
 - Python (Pandas)
 - BigQuery
 - Excel
 - Data Visualization
 
 ## 📊 Featured Projects
+
+### ☕ Coffee Market Dynamics Dashboard  
+An interactive Tableau data analytics dashboard built to explore global coffee market dynamics, including production, exports, imports, and consumption by country.  
+Designed to identify global trade patterns, supply-demand imbalances, and key industry insights through data visualization and KPI-driven analysis.
 
 ### 🛒 Analisis-Embudo-de-Ventas
 **Language:** Spanish 🇪🇸
