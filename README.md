@@ -49,7 +49,7 @@ Community sentiment analysis exploring the impact of the PlayStation Network con
 
 ---
 
-### 🛒 E-commerce Sales Funnel Analysis
+### 🛒 E-commerce Sales Funnel Analysis (Spanish)
 
 Conversion funnel analysis focused on customer acquisition, drop-off points, and conversion optimization using SQL and Power BI.
 
