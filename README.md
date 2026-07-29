@@ -43,6 +43,12 @@ Interactive Tableau dashboard exploring global coffee production, exports, impor
 
 ---
 
+### 🎮 Helldivers 2 Community Crisis Analysis
+
+Community sentiment analysis exploring the impact of the PlayStation Network controversy on player reviews and engagement.
+
+---
+
 ### 🛒 E-commerce Sales Funnel Analysis
 
 Conversion funnel analysis focused on customer acquisition, drop-off points, and conversion optimization using SQL and Power BI.
@@ -52,12 +58,6 @@ Conversion funnel analysis focused on customer acquisition, drop-off points, and
 ### 🛍️ Customer Shopping Behavior Analysis
 
 Customer segmentation and purchasing behavior analysis using SQL, PostgreSQL, Python, and Power BI.
-
----
-
-### 🎮 Helldivers 2 Community Crisis Analysis
-
-Community sentiment analysis exploring the impact of the PlayStation Network controversy on player reviews and engagement.
 
 ---
 
